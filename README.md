@@ -1,2 +1,2 @@
 # basic-crud
-- crud basico a una taba de usuarios utilizando pdo mysql y php
+- crud basico a una tabla de usuarios utilizando pdo mysql y php
